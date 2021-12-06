@@ -10,7 +10,7 @@ Für das zweite und dritte Arbeitsblatt hat man die Kenntnisse von PR2 benötigt
 Um in PR2 sich durchzusetzen, sollte man PR1 gut beherrschen.
 
 ## Teammitglieder 
-Lara Daubner. 
+Lara Daubner. Izem Putak. Enes Civan. 
 Izem Putak. 
 Enes Civan. 
 Stefan Kleinhenz Leiva. 
@@ -21,7 +21,7 @@ Abdullah Kaplican
 Zu jedem Arbeitsblatt gab es ein Thema was jeder Student selbstständig erarbeiten muss.
 Zu dem jeweiligen Themen muss man ein Video erstellen, wo man das Thema selbständig erklärt.
 
-**WICHTIGE INFORMATION**
+__WICHTIGE INFORMATION__
 Das Thema muss mit eigenem  Wissen erklärt werden und darf dabei die Folien und die Videos vom Dozenten(Prof.Dr.Dopatka) nicht verwenden. 
 
 
