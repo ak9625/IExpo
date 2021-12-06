@@ -6,7 +6,7 @@ Die nach Schwierigkeit sortiert waren.
 Für das erste Arbeitsblatt hat man PR1 Kenntnisse gebraucht.
 Für das zweite und dritte Arbeitsblatt hat man die Kenntnisse von PR2 benötigt.
 
-** Fett WICHTIGE INFORMATION **
+**WICHTIGE INFORMATION**
 Um in PR2 sich durchzusetzen, sollte man PR1 gut beherrschen.
 
 ## Teammitglieder 
@@ -21,7 +21,7 @@ Abdullah Kaplican
 Zu jedem Arbeitsblatt gab es ein Thema was jeder Student selbstständig erarbeiten muss.
 Zu dem jeweiligen Themen muss man ein Video erstellen, wo man das Thema selbständig erklärt.
 
-** WICHTIGE INFORMATION**
+**WICHTIGE INFORMATION**
 Das Thema muss mit eigenem  Wissen erklärt werden und darf dabei die Folien und die Videos vom Dozenten(Prof.Dr.Dopatka) nicht verwenden. 
 
 
@@ -33,7 +33,7 @@ Als Team müssten wir die Aufgaben zum Spiel(„Rummikub“) erledigen.
 
 Hierbei würden ihnen Bilder(Screenshots) vom Lehrvideo und von der Teamarbeit zeigen.
 
-#####Einblick Lehrvideo
+##### Einblick Lehrvideo
 
 
 ###### Einblick Teamarbeit
