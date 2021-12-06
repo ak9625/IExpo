@@ -6,7 +6,7 @@ Die nach Schwierigkeit sortiert waren.
 Für das erste Arbeitsblatt hat man PR1 Kenntnisse gebraucht.
 Für das zweite und dritte Arbeitsblatt hat man die Kenntnisse von PR2 benötigt.
 
-** WICHTIGE INFORMATION**
+** Fett WICHTIGE INFORMATION **
 Um in PR2 sich durchzusetzen, sollte man PR1 gut beherrschen.
 
 ## Teammitglieder 
