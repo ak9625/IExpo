@@ -10,7 +10,7 @@ Für das zweite und dritte Arbeitsblatt hat man die Kenntnisse von PR2 benötigt
 Um in PR2 sich durchzusetzen, sollte man PR1 gut beherrschen.
 
 ## Teammitglieder 
-Lara Daubner. Izem Putak. Enes Civan. 
+Lara Daubner  Izem Putak  Enes Civan 
 Izem Putak. 
 Enes Civan. 
 Stefan Kleinhenz Leiva. 
@@ -26,18 +26,18 @@ Das Thema muss mit eigenem  Wissen erklärt werden und darf dabei die Folien und
 
 
 
-#### Einblick Arbeitsblatt1
+## Einblick Arbeitsblatt1
 Das erste Arbeitsblatt unterteilt sich in zwei Aufgaben Einzelarbeit und Teamarbeit.
 Als Einzelarbeit müssten wir ein Lehrvideo zu einem Thema aufnehmen, was vom Dozenten zugewiesen wurde.
 Als Team müssten wir die Aufgaben zum Spiel(„Rummikub“) erledigen.
 
 Hierbei würden ihnen Bilder(Screenshots) vom Lehrvideo und von der Teamarbeit zeigen.
 
-##### Einblick Lehrvideo
+### Einblick Lehrvideo
 
 
-###### Einblick Teamarbeit
+### Einblick Teamarbeit
 
 
 
-####### Einblick Arbeitsblatt2
+## Einblick Arbeitsblatt2
