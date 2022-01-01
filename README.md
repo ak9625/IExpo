@@ -24,13 +24,13 @@ Das Thema muss mit eigenem  Wissen erklärt werden und darf dabei die Folien und
 
 ## Einblick Arbeitsblatt1
 Das erste Arbeitsblatt unterteilt sich in zwei Aufgaben Einzelarbeit und Teamarbeit.
-Als Einzelarbeit müssten wir ein Lehrvideo zu einem Thema aufnehmen, was vom Dozenten zugewiesen wurde.
+Als Einzelarbeit müssten wir ein Lehrvideo zu einem Thema aufnehmen, was vom Herrn prof. Dopatka zugewiesen wurde.
 Als Team müssten wir die Aufgaben zum Spiel(„Rummikub“) erledigen.
 
 Hierbei würden ihnen Bilder(Screenshots) vom Lehrvideo und von der Teamarbeit zeigen.
 
 ### Einblick Lehrvideo
-
+Auf dem Bild sieht man die einzelnen Video Themen ![Alt-Text](/Users/abdullahkaplican/Desktop/IExpo Bilder/Videothemen.png)
 
 ### Einblick Teamarbeit
 
