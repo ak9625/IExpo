@@ -21,7 +21,6 @@ __WICHTIGE INFORMATION__
 Das Thema muss mit eigenem  Wissen erklärt werden und darf dabei die Folien und die Videos vom Dozenten(Prof.Dr.Dopatka) nicht verwenden. 
 
 
-
 ## Einblick Arbeitsblatt1
 Das erste Arbeitsblatt unterteilt sich in zwei Aufgaben Einzelarbeit und Teamarbeit.
 Als Einzelarbeit müssten wir ein Lehrvideo zu einem Thema aufnehmen, was vom Herrn prof. Dopatka zugewiesen wurde.
@@ -30,7 +29,7 @@ Als Team müssten wir die Aufgaben zum Spiel(„Rummikub“) erledigen.
 Hierbei würden ihnen Bilder(Screenshots) vom Lehrvideo und von der Teamarbeit zeigen.
 
 ### Einblick Lehrvideo
-Auf dem Bild sieht man die einzelnen Video Themen [id]:(/Users/abdullahkaplican/Desktop/IExpo Bilder/Videothemen.png)
+Auf dem Bild sieht man die einzelnen Video Themen.
 
 ### Einblick Teamarbeit
 
