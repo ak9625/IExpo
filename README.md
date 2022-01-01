@@ -10,11 +10,7 @@ Für das zweite und dritte Arbeitsblatt hat man die Kenntnisse von PR2 benötigt
 Um in PR2 sich durchzusetzen, sollte man PR1 gut beherrschen.
 
 ## Teammitglieder 
-Lara Daubner  Izem Putak  Enes Civan 
 Izem Putak. 
-Enes Civan. 
-Stefan Kleinhenz Leiva. 
-Niklas Kerner.  
 Abdullah Kaplican 
 
 ### Lehrvideo 
