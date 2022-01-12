@@ -32,6 +32,8 @@ Hierbei würden ihnen Bilder(Screenshots) vom Lehrvideo und von der Teamarbeit z
 Auf dem Bild sieht man die einzelnen Video Themen ![Alt-Text](/Videothemen.png)
 
 ### Einblick Teamarbeit
+UML Diagramm 
+![Alt-Text](/Rummikub UML.png)
 
 
 
