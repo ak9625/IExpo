@@ -29,7 +29,7 @@ Als Team müssten wir die Aufgaben zum Spiel(„Rummikub“) erledigen.
 Hierbei würden ihnen Bilder(Screenshots) vom Lehrvideo und von der Teamarbeit zeigen.
 
 ### Einblick Lehrvideo
-Auf dem Bild sieht man die einzelnen Video Themen ![Alt-Text](Videothemen.png)
+Auf dem Bild sieht man die einzelnen Video Themen ![Alt-Text](/Videothemen.png)
 
 ### Einblick Teamarbeit
 
