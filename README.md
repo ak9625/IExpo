@@ -35,6 +35,8 @@ Auf dem Bild sieht man die einzelnen Video Themen ![Alt-Text](/Videothemen.png)
 UML Diagramm 
 ![Alt-Text](/RummikubUML.png)
 
+Auslegung der Spielsteine
+![Alt-Text](/Rummikub.png))
 
 
 ## Einblick Arbeitsblatt2
