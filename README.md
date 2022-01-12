@@ -36,7 +36,7 @@ UML Diagramm
 ![Alt-Text](/RummikubUML.png)
 
 Spielregeln für die Auslegung der Spielsteine
-![Alt-Text](/Rummikub.png))
+![Alt-Text](/Rummikub.png)
 
 
 ## Einblick Arbeitsblatt2
