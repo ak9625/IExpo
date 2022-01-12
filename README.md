@@ -11,7 +11,7 @@ Um in PR2 sich durchzusetzen, sollte man PR1 gut beherrschen.
 
 ## Teammitglieder 
 Izem Putak. 
-Abdullah Kaplican 
+Abdullah Kaplican und Enes Civan
 
 ### Lehrvideo 
 Zu jedem Arbeitsblatt gab es ein Thema was jeder Student selbstständig erarbeiten muss.
