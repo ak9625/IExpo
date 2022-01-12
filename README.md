@@ -33,7 +33,7 @@ Auf dem Bild sieht man die einzelnen Video Themen ![Alt-Text](/Videothemen.png)
 
 ### Einblick Teamarbeit
 UML Diagramm 
-![Alt-Text](/Rummikub UML.png)
+![Alt-Text](/Rummikub.png)
 
 
 
